@@ -20,18 +20,18 @@
 **Project Questions:**
 
 
-* Regression Analysis * 
+*Regression Analysis*
 
 * Can running pace be predicted based on max pace, elevation, heart rate, temp, and athlete count?
 
-* Classification Analysis * 
+*Classification Analysis*
  
 * Do specific running features relate more to a specific time of day?
 
 * Can we use machine learning to accurately predict the type of workout based on factors such as heart rate, start time, and length of workout?
 
 
-** Workflow **
+**Workflow**
 
 * Describe Fitness Tracking Data via Tableau
 
