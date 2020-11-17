@@ -5,15 +5,17 @@
 
 **Where to find files:**
 
-* Presentation: 
+* Presentation: fitness trakcing machine learning.pdf
 
 * Machine learning classification 
 
 * Machine learning regression
 
-* Tableau
+* SQL Database: -> database_zhiyi -> database_creation.ipynb + fitness_database.sqlite 
 
-* Web
+* Tableau: Fitness Tracking Overview Final.twbx
+
+* Web: index.html
 
 
 
