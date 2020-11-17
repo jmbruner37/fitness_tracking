@@ -7,9 +7,9 @@
 
 * Presentation: fitness trakcing machine learning.pdf
 
-* Machine learning classification 
+* Machine learning classification: -> Machine Learning -> Classification
 
-* Machine learning regression
+* Machine learning regression: -> Machine Learning -> Regression
 
 * SQL Database: -> database_zhiyi -> database_creation.ipynb + fitness_database.sqlite 
 
